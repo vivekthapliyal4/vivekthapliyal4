@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vivek
+<h1 align="center">Hi there 👋, I'm Vivek</h1>
 <h3 align="center">A self taught fullstack developer</h3>
 
 <!--
