@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Vivek
+<h3 align="center">A self taught fullstack developer</h3>
 
 <!--
 **vivekthapliyal4/vivekthapliyal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
