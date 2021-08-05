@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <br><br>
 
 ## &#x1f4c8; Github Stats
-<p ><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekthapliyal4&show_icons=true&locale=en&layout=compact" alt="vivekthapliyal4" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekthapliyal4&show_icons=true&locale=en" alt="vivekthapliyal4" /></p>
+<p ><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekthapliyal4&show_icons=true&locale=en&layout=compact" alt="vivekthapliyal4" />
+&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vivekthapliyal4&show_icons=true&locale=en" alt="vivekthapliyal4" /></p>
